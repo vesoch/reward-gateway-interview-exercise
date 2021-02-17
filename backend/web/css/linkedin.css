@@ -1,0 +1,63 @@
+.wrap {
+    background-color: #f3f2ef;
+}
+
+.people-card {
+    padding: 30px;
+    border-radius: 25px;
+    background-color: #f9fafb;
+}
+
+.people-card .header {
+    font-size: 1rem;
+}
+
+.people-card .info-label {
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+.people-card .input-field {
+    border-radius: 25px;
+    width: 100%;
+}
+
+.people-card .input-field:focus {
+    border-radius: 25px;
+}
+
+.divider-bottom {
+    border-bottom: 2px solid #f3f2ef;
+}
+
+.entity-result-image {
+    padding-top: 12px;
+    margin-bottom: auto;
+    align-items: end;
+}
+
+.entity-result-image .profile-image {
+    border-radius: 50%;
+    height: 64px;
+    width: 64px;
+}
+
+.entity-result-content {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.entity-result-content .name {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.entity-result-content .title {
+    font-size: 0.8rem;
+    font-weight: 200;
+}
+
+.entity-result-content .bio {
+    font-size: 0.7rem;
+    font-weight: 100;
+}
